@@ -1,0 +1,9 @@
+Datos registrados
+-----------------
+Nombre y apellido........: si no
+Nombre y apellido........: Masculino
+Datos registrados
+-----------------
+Nombre y apellido....: no se no s
+Genero...............: Masculino
+Edad.................: Menor de edad
